@@ -27,3 +27,7 @@
     text-shadow: 1px 1px 1px #fff;
     transition: all 0.55s;
 }
+
+.modal >label:hover {
+    transform: scale(0.97);
+}
