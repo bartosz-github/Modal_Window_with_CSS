@@ -1,2 +1,10 @@
 
+/*=============================
+    Modal action styles
+=============================*/
+
+input {
+    position: absolute;
+    top: -1000px;
+}
 

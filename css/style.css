@@ -55,3 +55,9 @@ body {
     max-width: 500px;
     width: 90%;
 }
+
+@media (min-width: 50em) {
+    .modal__wrap {
+        padding 1.75em;
+    }
+}
