@@ -47,3 +47,11 @@ body {
     top: 0;
     z-index: 600;
 }
+
+.modal__wrap {
+    padding: 1em 0;
+    position: relative;
+    margin: 0 auto;
+    max-width: 500px;
+    width: 90%;
+}
