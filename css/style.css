@@ -35,3 +35,15 @@ body {
 .modal >label:hover {
     transform: scale(0.97);
 }
+
+.modal__overlay {
+    background: #000000;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    text-shadow: none;
+    top: 0;
+    z-index: 600;
+}
